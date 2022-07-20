@@ -1,2 +1,2 @@
 # Hangman
-Awesome Hangman Game
+The Awesome Hangman Game
